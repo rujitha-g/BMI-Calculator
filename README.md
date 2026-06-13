@@ -35,7 +35,7 @@ BMI-Calculator/
 │   ├── main.jsx
 │   ├── BMICalculator.jsx
 │   ├── App.css
-│   └── index.css
+│
 │
 ├── package.json
 ├── package-lock.json
